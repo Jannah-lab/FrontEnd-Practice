@@ -1,0 +1,26 @@
+body{
+
+    background-image: url(https://cdn.svgator.com/images/2024/04/electrocuted-caveman-animation-404-error-page.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#page404{
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+
+.text404 h1{
+    font-size: 50px;
+}
+
+.text404 a{
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(15, 151, 15);
+
+}
